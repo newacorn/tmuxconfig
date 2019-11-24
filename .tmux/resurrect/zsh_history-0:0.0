@@ -1,0 +1,64 @@
+tmux choose-buffer
+vagrant
+tmux choose-buffer
+tmux show-buffer buffer0003
+tmux show-buffer -b buffer0003
+tmux choose-buffer
+vim .tmux.conf
+==> Pouring reattach-to-user-namespace
+🍺  /usr/local/Cellar/reattach-to-user-namespace/2.8: 7 files, 38.8KB
+tmux choose-buffer
+vagrant
+ls
+tmux show-buffer
+ls
+tmux show-buffer
+tmux paste-buffer
+ls
+tmux show-buffer
+tmux save-buffer -b buffer0003 | pbcopy
+vim .tmux.conf
+mkdir -p .tmux/plugins
+cd ~/.tmux/plugins
+ls
+tmux paste-buffer
+git clone https://github.com/tmux-plugins/tpm
+ls
+vim .tmux.conf
+cd ~
+ls
+vim .tmux.conf
+tmux
+ls
+vim .vimrc.custom.plugins
+cd .vimplus
+ls
+cd ..
+cd .vimrc
+ls
+cd .vim
+ls
+cd ..
+cd -
+ls
+cd plugged
+ls
+ls | grep sseion
+vim -u NONE -c "helptags vim-obsession/doc" -c q\n
+vim .tmux.conf
+cd ~
+vim .tmux.conf
+tmux show -g default-command
+ls
+vim .tmux.conf
+\n
+ls
+tmux list-buffers
+tmux list-session
+tmux
+cd ~/.tmux/resurrect
+ls
+cat tmux_resurrect_20191123T143358.txt
+ls
+cat   tmux_resurrect_20191123T145148.txt\n
+fc -R '/Users/acorn/.tmux/resurrect/zsh_history-0:0.0'; clear

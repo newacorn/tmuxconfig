@@ -1,0 +1,11 @@
+pane	0	0	:zsh	1	:*	0	:/Users/acorn	1	zsh	:
+pane	1	0	:zsh	1	:*	0	:/Users/acorn	0	zsh	:
+pane	1	0	:zsh	1	:*	1	:/Users/acorn	0	zsh	:
+pane	1	0	:zsh	1	:*	2	:/Users/acorn/vagrant/centos7.7	0	zsh	:
+pane	1	0	:zsh	1	:*	3	:/Users/acorn	0	zsh	:
+pane	1	0	:zsh	1	:*	4	:/Users/acorn	1	zsh	:
+pane	2	0	:zsh	1	:*	0	:/Users/acorn/.tmux/resurrect	1	zsh	:
+window	0	0	1	:*	b25e,80x24,0,0,1
+window	1	0	1	:*	269f,80x24,0,0[80x1,0,0,2,80x1,0,2,3,80x1,0,4,4,80x6,0,6,5,80x11,0,13,6]
+window	2	0	1	:*	b264,80x24,0,0,7
+state	0	2
